@@ -15,6 +15,10 @@ _Anchored solutions in robust combinatorial optimization._
 Under the supervision of Pascale Bendotti (EDF & LIP6), Philippe Chrétienne (LIP6) and Pierre Fouilhoux (LIPN).  
 Our objective is to design new robust optimization problems to achieve a trade-off between the cost of the robust solution and guarantees on decisions.
 
+<span style="color:blue"> PhD defense / Soutenance de thèse   
+By visioconference on March, 16th at 14:00.  
+Connection link: == to be confirmed later ==.  </span>
+
 
 ### Preprints
 - **Exact and heuristic approaches to the Anchor-Robust RCPSP**. [Arxiv](https://arxiv.org/abs/2011.02020).  
