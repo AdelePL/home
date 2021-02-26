@@ -2,7 +2,7 @@
 
 I am currently a **PhD student in Operations Research** (March 2018 - March 2021) at Sorbonne Université, LIP6 and EDF R&D, département OSIRIS.
 
-Contact: adele dot pass hyphen lanneau at lip6 dot fr
+Contact: adele dot pass hyphen lanneau at polytechnique dot org
 
 
 
