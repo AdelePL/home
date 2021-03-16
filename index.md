@@ -17,7 +17,10 @@ Our objective is to design new robust optimization problems to achieve a trade-o
 
 ### <span style="color:orange"> PhD defense / Soutenance de thèse </span>  
 <span style="color:orange"> By visioconference on March, 16th at 14:00.  
-YouTube link: <https://www.youtube.com/watch?v=9Ec_Mw6-GcU>   
+No YouTube link, join by Teams
+  
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTgxM2NkYzMtNGQ1YS00NTcyLWJiNGQtZmM3ZTlmOTExOWMz%40thread.v2/0?context=%7b%22Tid%22%3a%2241b4ee40-6925-47cb-afcd-d4af7c77501f%22%2c%22Oid%22%3a%22539681fe-3f8b-4026-8f10-5fb778a8a66b%22%7d
+
 Note that chat is open to take questions from the audience.  
 </span>
 
