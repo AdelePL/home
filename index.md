@@ -1,6 +1,6 @@
 ## Adèle Pass-Lanneau
 
-I am currently a **PhD student in Operations Research** (March 2018 - March 2021) at Sorbonne Université, LIP6 and EDF R&D, département OSIRIS.
+I was a **PhD student in Operations Research** (March 2018 - March 2021) at Sorbonne Université, LIP6 and EDF R&D, département OSIRIS.
 
 Contact: adele dot pass hyphen lanneau at polytechnique dot org
 
@@ -8,21 +8,15 @@ Contact: adele dot pass hyphen lanneau at polytechnique dot org
 
 ### Research interests
 Operations Research and Combinatorial Optimization in a broad sense.  
-I'm currently working on *robust optimization*, *scheduling*, and exact approaches based on *integer programming* and polyhedral methods. I'm also interested in connections with *algorithmic game theory*.
+I've been working on *robust optimization*, *scheduling*, and exact approaches based on *integer programming* and polyhedral methods. I'm also interested in connections with *algorithmic game theory*.
 
 ### PhD thesis
 _Anchored solutions in robust combinatorial optimization._  
 Under the supervision of Pascale Bendotti (EDF & LIP6), Philippe Chrétienne (LIP6) and Pierre Fouilhoux (LIPN).  
 Our objective is to design new robust optimization problems to achieve a trade-off between the cost of the robust solution and guarantees on decisions.
 
-### <span style="color:orange"> PhD defense / Soutenance de thèse </span>  
-<span style="color:orange"> By visioconference on March, 16th at 14:00.  
-No YouTube link, join by Teams
-  
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTgxM2NkYzMtNGQ1YS00NTcyLWJiNGQtZmM3ZTlmOTExOWMz%40thread.v2/0?context=%7b%22Tid%22%3a%2241b4ee40-6925-47cb-afcd-d4af7c77501f%22%2c%22Oid%22%3a%22539681fe-3f8b-4026-8f10-5fb778a8a66b%22%7d
-
-Note that chat is open to take questions from the audience.  
-</span>
+I defended my thesis on March, 16th.  
+Members of the jury: Dominique De Werra, Gerhard Woeginger (reviewers); Bruno Escoffier, Frédéric Meunier, Michael Poss (examiners).  
 
 
 ### Preprints
