@@ -1,14 +1,19 @@
 ## Adèle Pass-Lanneau
 
-I was a **PhD student in Operations Research** (March 2018 - March 2021) at Sorbonne Université, LIP6 and EDF R&D, département OSIRIS.
+From March 2018 to March 2021, I was a **PhD student in Operations Research** at Sorbonne Université, LIP6 and EDF R&D, département OSIRIS.  
+I am now an Operations Research Engineer at DGA.
 
 Contact: adele dot pass hyphen lanneau at polytechnique dot org
 
-
+### News
+April 2021 - I was awarded the **Best Student Paper Award** at scheduling conference PMS : [video can be found here](https://pms2020.sciencesconf.org/resource/page/id/14)  
 
 ### Research interests
 Operations Research and Combinatorial Optimization in a broad sense.  
-I've been working on *robust optimization*, *scheduling*, and exact approaches based on *integer programming* and polyhedral methods. I'm also interested in connections with *algorithmic game theory*.
+I've been working on *robust optimization*, *scheduling*, and exact approaches based on *integer programming* and polyhedral methods.
+I'm also interested in connections with *algorithmic game theory*.
+My research interests often come from the *practice of OR* in the industry.
+
 
 ### PhD thesis
 _Anchored solutions in robust combinatorial optimization._  
