@@ -30,15 +30,15 @@ Adèle Pass-Lanneau, Pascale Bendotti, Luca Brunod-Indrigo.
 Online November 2020.  
 - **The Anchor-Robust Project Scheduling Problem**. [Hal](https://hal.archives-ouvertes.fr/hal-02144834v1).   
 Pascale Bendotti, Philippe Chrétienne, Pierre Fouilhoux, Adèle Pass-Lanneau.   
-Online June 2019. Under review.  
+Online June 2019. Submitted to _Operations Research_, major revision.
 
 
 ### Publications
 
-- **Dominance-based linear formulation for the Anchor-Robust Project Scheduling Problem**. [Hal](https://hal.inria.fr/hal-02938158/).  
+- **Dominance-based linear formulation for the Anchor-Robust Project Scheduling Problem**. [Hal](https://hal.inria.fr/hal-02938158/). [Journal paper.](https://doi.org/10.1016/j.ejor.2021.02.034)   
 Pascale Bendotti, Philippe Chrétienne, Pierre Fouilhoux,Adèle Pass-Lanneau.  
-Accepted in _European Journal of Operational Research_, 2021.
-- **Anchored Rescheduling Problems Under Generalized Precedence Constraints**.  
+_European Journal of Operational Research_, 295(1):22-33, 2021.
+- **Anchored Rescheduling Problems Under Generalized Precedence Constraints**.  [Paper.](https://doi.org/10.1007/978-3-030-53262-8_13)   
 Pascale Bendotti, Philippe Chrétienne, Pierre Fouilhoux, Adèle Pass-Lanneau.   
 _Proceedings of ISCO2020, Lecture Notes in Computer Science_, 2020.  
 - **Iterative Delegations in Liquid Democracy with Restricted Preferences**.  
@@ -59,8 +59,8 @@ See [Egres Open](http://lemon.cs.elte.hu/egres/open/Finding_kernels_in_special_d
 2018, 2019: Cours _Recherche Opérationnelle et Optimisation_. École des Ponts, cursus ingénieur, deuxième année.
 
 ### Résumé
-- 2018 - now : PhD student in LIP6 and EDF R&D (thèse CIFRE).
 - 2018 - now : Civil servant / fonctionnaire d'un corps d'Etat
+- 2018 - 2021 : PhD student in LIP6 and EDF R&D (thèse CIFRE).
 - 2017 : Master thesis (stage de fin d'études) at École des Ponts under the supervision of Frédéric Meunier.  
 Won the award *Prix de mémoire de master 2017* from French OR society ROADEF. [Link.](https://www.roadef.org/roadef-prix-etudiant-master)
 - 2016 - 2017 : MSc in Optimization at ENSTA Paris, Master Parisien de Recherche Opérationnelle at CNAM.
